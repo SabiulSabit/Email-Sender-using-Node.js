@@ -5,7 +5,7 @@ Send Email Using Node.js
 
 ## Change index.js File
 ```js
-    auth: {
+   auth: {
         user: "", // Your Mail Address 
         pass: "", // Your Mail Password
     }
